@@ -30,14 +30,6 @@ class DB{
         this.connection.connect();
     }
 
-    // getPzn(callback){
-    //     this.connection.query("SELECT * FROM pzn", ( err, rows)=>{
-    //         console.log(rows);
-    //         callback(rows)
-    //         console.log(this.options);
-    //     });
-    // }
-
 
     connEnd(){
         this.connection.end();
