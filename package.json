@@ -19,6 +19,6 @@
     "mysql": "^2.15.0",
     "node-cron": "^1.2.1",
     "pug": "2.0.0-beta11",
-    "puppeteer": "^1.4.0"
+    "puppeteer": "^1.13.0"
   }
 }
